@@ -68,11 +68,6 @@ January 2015 - July 2016 | Tehran, Iran
 - Designed and developed mobile apps for Iran's largest eCommerce platform using Java, REST API, and Android SDK.  
 - Contributed to Agile processes, including backlog grooming and sprint planning.  
 
-### **Treata Smart Solutions**  
-*Junior Android Application Developer (Remote & Part-Time)*  
-January 2013 - May 2013 | Canada  
-- Developed an Android app for physicians to assign tasks to a virtual nurse agent, integrating REST API, JSON, and push notifications.  
-
 ### **Sobhan Abnieh**  
 *Software Engineer*  
 May 2005 - May 2012 | Bandarabbas, Iran  
