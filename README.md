@@ -89,6 +89,7 @@ May 2005 - May 2012 | Bandarabbas, Iran
 ---
 
 ## Certifications  
+- Generative AI with Large Language Models [AWS Web Services Cert](https://www.coursera.org/account/accomplishments/verify/7EBW35M7IRYJ)
 - Certified SAFe® 6 Product Owner / Product Manager  
 - Executive Leadership  
 - Android App Development: Design Patterns for Mobile Architecture  
