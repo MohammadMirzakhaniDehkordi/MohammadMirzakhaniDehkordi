@@ -43,7 +43,7 @@ Proven across product vision, complex technical architecture (Stripe billing, GD
 *Jun 2025 - Feb 2026 | Germany*  
 - Built custom AI services and document-processing solutions for clients using their existing documents and databases (Flask/Python, AWS, GCP, Docker, OpenAI integration).
 - Owned end-to-end product lifecycles — defining strategy and roadmaps aligned to client objectives, delivered via Agile and CI/CD pipelines.
-- 🤖 **[Kifragt.de](https://kifragt.de)**: Intelligent document Q&A system handling PDF, Excel, and images with multilingual support; RAG architecture on AWS auto-scaling. *Result: 90% reduction in manual document searching.*
+- 🤖 **[DeinPDF.de](https://deinpdf.de)**: Privacy-first AI service for working on company documents, fully EU-compliant with the AI model hosted in Germany 🇩🇪. Built on AWS Bedrock with S3 Vectors, a RAG pipeline, and SQS for asynchronous document processing. *Result: 90% reduction in manual document searching.*
 - 🌍 **Treffpunkts.de**: Scalable community platform with vector-embedding semantic search and real-time analytics on Google Cloud with CI/CD. *Result: +60% user engagement.*
 
 ### **Capgemini Engineering**  
